@@ -1,0 +1,10 @@
+---
+title: "Blogging with Quarto"
+author: "Ruxandra Ichim"
+date: "2023-11-03"
+categories: [code, blogging]
+image: "image.jpg"
+draft: true
+---
+
+This is a post with executable code.

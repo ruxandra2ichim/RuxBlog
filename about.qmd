@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ruxandra-ichim-14674175/
+    - icon: github
+      text: Github
+      href: https://github.com/ruxandra2ichim
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ruxandra2ichim
+
+---
+
+They say blogging is one of the best ways to learn. So here I am giving it a try.
